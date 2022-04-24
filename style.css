@@ -33,6 +33,13 @@ main {
     justify-content:center;
 }
 
+.main_angel_set{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+
+
 .main_rank {
     height : 940px;
     background-color:black;
