@@ -1,0 +1,98 @@
+body {
+    margin:0px;
+    font-family: "NanumBarunGothic" , "Malgun Gothic" , sans-serif;
+
+}
+
+a {
+    color :palevioletred;
+    text-decoration:none;
+}
+a:hover{
+    color:seagreen;
+}
+nav {
+height : 200px;
+background-color :blanchedalmond;
+display :flex;
+justify-content: space-around;
+align-items : center;
+}
+
+main {
+    height : 969px;
+    background-color:azure;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+
+}
+
+.main_rank {
+    height : 940px;
+    background-color:black;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+
+}
+
+.main_rank2 {
+    padding : 50px 50px 50px 50px;
+
+}
+
+footer {
+    height : 580px;
+    background-color: black;
+}
+
+.nav-item{
+    padding : 65px 121px;
+    font-size: 42px;
+    font-weight: bold;
+    
+}
+
+.audio-item{
+    padding : 0px 0px 200px 2200px;
+}
+
+.audio-item2{
+    padding : 0px 0px 0px 2250px;
+    background-color: black;
+}
+
+.main-item1{
+    font-size : 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main-item2{
+    font-size : 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main-item3{
+    padding : 65px 0px 470px 0px;
+
+    font-size : 20px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.footer-item1 {
+    padding : 50px 0px;
+    text-align: center;
+    font-size : 36px;
+    font-weight: bold;
+    color:white;
+}
+.footer-item2 {
+    text-align: center;
+    font-size : 16px;
+    font-weight: bold;
+    color:white;
+}
